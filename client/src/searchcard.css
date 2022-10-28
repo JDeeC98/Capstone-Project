@@ -1,0 +1,149 @@
+
+
+.search-image {
+    margin-top:0px;
+    display: flex;
+    height: 700px;
+    width: 500px;
+    border-radius: 5%;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+.search-name {
+    display: flex;
+    margin-left:550px;
+    margin-top: -700px;
+    font-size: 75px;
+    padding: 20px;
+    width: 700px;
+    
+}
+
+.search-release {
+    display: flex;
+    margin-left:520px;
+    margin-top: -400px;
+    font-size: 35px;
+    padding: 60px;
+    text-decoration: underline #050505;
+}
+
+.search-description {
+    display: flex;
+    margin-left:570px;
+    margin-top: -100px;
+    font-size: 20px;
+    padding: 20px;
+    width: 700px;
+    border: 3px solid;
+    
+}
+
+.title-description {
+    display: flex;
+    margin-left:510px;
+    margin-top: -110px;
+    font-size: 40px;
+    padding: 70px;
+    text-decoration: underline #050505;
+}
+
+.rating {
+    
+    margin-left:1500px;
+    margin-top: -200px;
+    font-size: 80px;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    border: 5px solid #000;
+    color: #000;
+    text-align: center;  
+}
+
+.by-critics {
+    
+    margin-left:1460px;
+    margin-top: 0px;
+    font-size: 40px;
+    
+}
+
+.Multiplayer {
+    display: flex;
+    margin-left:550px;
+    margin-top: -30px;
+    font-size: 30px;
+    padding: 20px;
+    width: 700px;
+}
+
+.Store {
+    color: black;
+    display: flex;
+    margin-left:1470px;
+    margin-top: 0px;
+    font-size: 30px;
+    width: 700px;
+}
+
+.Twitch {
+    color: black;
+    display: flex;
+    margin-left:1370px;
+    margin-top: 10px;
+    font-size: 30px;
+    width: 700px;
+}
+
+.Store:hover {
+    color: blue;
+}
+
+.video-player {
+    margin-top: 120px;
+    display: flex;
+    border-radius: 2%;
+    border: 5px solid rgb(5, 5, 5);
+    width: 500px;
+    
+}
+
+.player-count {
+    display: flex;
+    margin-left: 1515px;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.active-players {
+    display: flex;
+    margin-left: 1480px;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 25px;
+    padding: 0px;
+    text-decoration: underline #050505;
+}
+
+.age-rating {
+    margin-left: 1520px;
+    margin-top: -10px;
+    display: flex;
+    color: rgb(7, 7, 7);
+    font-size: 90px;
+    padding: 0px;
+    -webkit-text-stroke: 2px rgb(129, 129, 129);
+    text-align: center;
+    
+}
+
+.rating-text {
+    margin-left: 1465px;
+    margin-top: -100px;
+    display: flex;
+    font-size: 40px;
+    padding: 0px;
+    text-align: center;
+    text-decoration: underline #050505;
+}
